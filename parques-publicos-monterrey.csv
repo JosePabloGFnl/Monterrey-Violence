@@ -1,0 +1,55 @@
+﻿ Numero_de_identificacion,Ejercicio, Mes, Tipo_de_asentamiento, Nombre_de_asentamiento, Tipo_de_vialidad, Nombre_de_vialidad, Pista, Juegos_de_parque, Aparatos_de_ejercicio, Cancha, Bebedores, Botes_de_basura, Cantidad_de_botes, Georreferencia, Nota
+No dato,2021,Octubre-Diciembre,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2021,Julio-Septiembre,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2021,Julio-Septiembre,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2021,Julio-Septiembre,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2021,Abril-Junio,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2021,Abril-Junio,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2021,Abril-Junio,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2022,Enero-Marzo,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2022,Abril-Junio,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2022,Abril-Junio,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2022,Julio-Septiembre,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2022,Julio-Septiembre,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2022,Octubre-Diciembre,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2022,Octubre-Diciembre,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2021,Octubre-Diciembre,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2021,Octubre-Diciembre,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2021,Julio-Septiembre,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2021,Abril-Junio,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2022,Enero-Marzo,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2022,Enero-Marzo,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2022,Enero-Marzo,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2022,Enero-Marzo,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2022,Abril-Junio,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2022,Abril-Junio,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2022,Julio-Septiembre,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2022,Julio-Septiembre,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2022,Octubre-Diciembre,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2022,Octubre-Diciembre,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2022,Octubre-Diciembre,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2021,Octubre-Diciembre,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2021,Octubre-Diciembre,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2021,Octubre-Diciembre,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2021,Julio-Septiembre,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2021,Julio-Septiembre,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2021,Abril-Junio,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2021,Abril-Junio,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2021,Enero-Marzo,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2021,Enero-Marzo,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2021,Enero-Marzo,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2021,Enero-Marzo,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2021,Enero-Marzo,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2021,Enero-Marzo,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2022,Enero-Marzo,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2022,Abril-Junio,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2022,Abril-Junio,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
+No dato,2022,Julio-Septiembre,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2022,Julio-Septiembre,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2022,Octubre-Diciembre,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2023,Enero-Marzo,Colonia,Condesa,Avenida,Eugenio Garza Sada,Si,Si,No,Si,No,Si,3,"25.61801, -100.270758",Parque Canoas
+No dato,2023,Enero-Marzo,Colonia,San Bernabe,Avenida,Aztlan,Si,Si,Si,No,Si,Si,33,"25.761912, -100.370328",Parque Aztlan
+No dato,2023,Enero-Marzo,Colonia,Buenos Aires,Avenida,Ignacio Morones Prieto,Si,Si,Si,Si,Si,Si,77,"25.672044, -100.2806",Parque Espana
+No dato,2023,Enero-Marzo,Colonia,Emiliano Zapata,Avenida,Rodrigo Gomez,No,Si,No,No,No,Si,4,"25.740716, -100.343635",Parque Mty 400
+No dato,2023,Enero-Marzo,Fraccionamiento,Valle del Infonavit 5 sector,Calle,Uranio,Si,Si,Si,Si,Si,Si,65,"25.729671, -100.384837",Parque Tucan
+No dato,2023,Enero-Marzo,Colonia,Centro,Avenida,Pino Suarez,Si,No,No,No,Si,Si,86,"25.676089, -100.321366",Parque Alameda Mariano Escobedo
